@@ -1,11 +1,8 @@
 # my-portfolio 
 ### By **Paulyne Wambui**
-## Description
-Wambui's portfolio
-This portfolio is a brief introduction of what I have been doing in terms of school and my progress as a software developer.
 
-## Screenshot
-![portfolio](https://user-images.githubusercontent.com/69419673/93513853-1f2c5680-f92f-11ea-9843-04c92054302b.png)
+## Description
+This portfolio is a brief introduction of what I have been doing in terms of school and my progress as a software developer.
 
 ## Setup/Installation Requirements 
 * Should have a working github account
